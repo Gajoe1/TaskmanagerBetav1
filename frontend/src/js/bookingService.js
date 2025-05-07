@@ -18,6 +18,8 @@ const currentDateRangeSpan = document.getElementById("currentDateRange");
 const bookingAlert = document.getElementById("bookingAlert");
 const deleteBtn = document.getElementById("deleteBtn");
 
+console.log("hiiiiiiii");
+
 // Tilstand
 let machines = [];
 let projects = [];
